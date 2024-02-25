@@ -11,7 +11,7 @@ permalink: /features/bed_mesh
 
 ---
 
-Fluidd has a built in bed mesh viewer. Click through to the printer navigation
+Fluidd has a built in bed mesh viewer. Click through to the tune navigation
 item and calibrate a mesh to view.
 
 Note, you'll need to have configured the `bed_mesh` option in klipper for this
